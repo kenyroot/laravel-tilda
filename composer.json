@@ -2,10 +2,9 @@
   "name": "kenyroot/laravel-tilda",
   "license": "MIT",
   "require": {
-    "php": ">=7.1.3",
-    "laravel/framework": "^7.0|^8.0"
+    "php": "^8.1",
+    "laravel/framework": "^9.0|^10.0"
   },
-
   "require-dev": {},
   "autoload": {
     "psr-4": {
